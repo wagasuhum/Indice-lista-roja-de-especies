@@ -16,4 +16,3 @@ En lugar de limitarse a contar cuántas especies están en peligro hoy, el RLI r
 
 ---
 
-   git clone [https://github.com/wagasuhum/Indice-lista-roja-de-especies.git](https://github.com/wagasuhum/Indice-lista-roja-de-especies.git)
