@@ -1,4 +1,4 @@
-# ndice de Lista Roja de Especies (RLI)
+# Indice de Lista Roja de Especies (RLI)
 
 Este proyecto busca evaluar y monitorear el estado de conservación de la biodiversidad mediante el cálculo del **Índice de la Lista Roja (Red List Index - RLI)**, complementado con análisis de proporciones de especies amenazadas y normativas ambientales locales.
 
